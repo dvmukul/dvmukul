@@ -1,27 +1,27 @@
 # Hi there, I'm Mukul! 👋
 
-Senior Product Manager specializing in **Platform**, **Identity and Access Management (IAM)**, **Data Analytics**, and **AI**. I am passionate about leveraging cutting-edge technologies to simplify complex workflows and drive operational excellence.
+**AI-Native Senior Product Manager** bridging the gap between cutting-edge LLMs, enterprise platforms, and data analytics. I build intelligent products with reasoning capabilities that compound business value and redefine operational workflows.
 
 ---
 
-### 🚀 Core Expertise
-- **Platform:** Building and scaling platforms for developers and enterprises.
-- **Identity & Access Management (IAM):** Scaling secure, frictionless identity solutions for enterprise platforms.
-- **Data Analytics:** Transforming raw data into actionable insights to drive product strategy.
-- **Artificial Intelligence:** Building and testing AI-powered tools to streamline work and unlock new possibilities.
+### 🧠 AI & Core Expertise
+- **Generative AI & LLMs:** Designing agentic workflows, evaluating foundation models, and integrating contextual GenAI features into core product loops.
+- **AI-Enhanced Platforms:** Evolving traditional Identity & Access Management (IAM) and enterprise platforms to be adaptive, context-aware, and intelligent.
+- **Data & Model Strategy:** Leveraging advanced data analytics to uncover user signals and optimize the feedback loops that train predictive systems.
+- **Product Architecture:** Scaling secure, frictionless, and zero-trust platforms from the ground up.
 
-### 🛠️ Tech Stack & Tools
-![IAM](https://img.shields.io/badge/-IAM-0052CC?style=flat-square&logo=azure&logoColor=white)
-![AI](https://img.shields.io/badge/-AI/ML-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)
-![Data](https://img.shields.io/badge/-Data%20Analytics-44CC11?style=flat-square&logo=python&logoColor=white)
-![Product](https://img.shields.io/badge/-Product%20Management-6D32EC?style=flat-square&logo=product-hunt&logoColor=white)
+### 🛠️ Tech Stack & Concepts
+![AI/ML](https://img.shields.io/badge/-Generative%20AI-FF6F00?style=flat-square&logo=google-cloud&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-44CC11?style=flat-square&logo=python&logoColor=white)
+![Platform IAM](https://img.shields.io/badge/-Platform%20%26%20IAM-0052CC?style=flat-square&logo=azure&logoColor=white)
+![Agentic Workflows](https://img.shields.io/badge/-Agentic%20Systems-6D32EC?style=flat-square&logo=openai&logoColor=white)
 
 ---
 
-### 🧪 Currently Exploring & Building
-- **Generative AI Workflows:** Experimenting with LLMs to automate manual PM tasks.
-- **Identity Security:** Exploring zero-trust architectures for modern cloud platforms.
-- **Self-Correction Loops in AI:** Researching how AI can validate its own outputs.
+### 🚀 Currently Exploring & Building
+- **Agentic Workflows:** Orchestrating autonomous AI agents for complex, multi-step task resolution.
+- **AI Security & Governance:** Securing LLM deployments against prompt injection and ensuring bias-resilient outputs within IAM boundaries.
+- **Self-Correction in AI:** Researching mechanisms for models to evaluate, critique, and validate their own reasoning paths.
 
 ### 📫 Connect with me
 - [LinkedIn](https://www.linkedin.com/in/mukuldewangan/)
@@ -29,4 +29,4 @@ Senior Product Manager specializing in **Platform**, **Identity and Access Manag
 
 ---
 
-*"I love to learn new technologies and use them to simplify my work so I can do more."*
+*"I don't just use AI to work faster—I orchestrate AI to change how work gets done."*
