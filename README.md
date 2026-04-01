@@ -71,4 +71,4 @@ Working toward my **private pilot license**. There's a version of product manage
 
 ---
 
-📎 [LinkedIn](https://www.linkedin.com/in/mukuldewangan/) · [PM Research Agent](https://github.com/dvmukul/pm-research-agent) · [PM Prompt Library](https://github.com/dvmukul/pm-prompt-library)
+📎 [LinkedIn](https://www.linkedin.com/in/mukuldewangan/)
