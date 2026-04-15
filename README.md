@@ -16,7 +16,7 @@ My background spans:
 - **AI & agentic systems** — designing workflows where AI autonomously reasons across steps, not just generates a single response
 - **Data infrastructure** — ETL pipelines, data warehouses, analytics platforms; the unglamorous layer that determines whether any AI insight is trustworthy
 - **Enterprise platform & IAM** — SSO, IdP integrations, zero-trust architectures; the access control layer that gets AI products through security review
-- **B2B SaaS** — 8+ years shipping products at Vendasta and across the enterprise SaaS stack
+- **B2B SaaS** — 10+ years shipping products at Vendasta and across the enterprise SaaS stack
 
 ---
 
