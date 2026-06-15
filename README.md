@@ -1,6 +1,6 @@
 # Hey, I'm Mukul 👋
 
-**Senior Product Manager** working at the intersection of AI systems, data infrastructure, and enterprise SaaS.
+**Principal Product Manager** working at the intersection of AI systems, data infrastructure, and enterprise SaaS.
 
 I build AI products that actually get deployed — not just demoed. That means caring as much about data quality, trust architecture, and organizational adoption as about the model itself.
 
